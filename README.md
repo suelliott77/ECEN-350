@@ -1,3 +1,3 @@
 # ECEN-350
 
-Here are some of labs that I did during Computer Architecture (ECEN 350) which included ARMv8 and Assmebly. 
+Here are some of my labs during Computer Architecture (ECEN 350), including ARMv8 and Assembly. Please do not copy them, Thanks. 
